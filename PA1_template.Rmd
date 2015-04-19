@@ -7,7 +7,7 @@ output:
 ```{r global_options}
 library(knitr)
 library(ggplot2)
-opts_chunk$set(echo = FALSE, fig.path = "figure/")
+opts_chunk$set(echo = TRUE, fig.path = "figure/")
 ```
 
 ## Loading and preprocessing the data
